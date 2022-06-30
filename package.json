@@ -1,0 +1,29 @@
+{
+  "name": "fileszip",
+  "version": "1.0.0",
+  "description": "a package to unzip with multiple files ",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w .\\main.ts -t es2020 --module commonjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WXZhang365/WXZhang365.git"
+  },
+  "keywords": [
+    "zlib",
+    "unzip",
+    "multiple-files"
+  ],
+  "author": "zhangwenxuan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WXZhang365/WXZhang365/issues"
+  },
+  "homepage": "https://github.com/WXZhang365/WXZhang365#readme",
+  "dependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
